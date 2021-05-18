@@ -1,0 +1,108 @@
+nav{
+    padding-top:1em;
+    padding-bottom: 1em;
+    font-size: 1.5em;
+    font-family: sans-serif;
+    border-bottom: 4px solid black;
+    width: 100%;
+}
+nav a:link
+{
+  color: black;
+}
+nav a:visited
+{
+  color: black;
+}
+nav a:hover
+{
+  color: #ffa514;
+}
+nav a{
+    padding-left: 1em;
+}
+body{
+    background-image: url(pics/hatter.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: sans-serif;
+    background-attachment: fixed;
+    margin:0;
+}
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 5em;
+}
+footer{
+    background-color: lightgray;
+    padding-left: 1em;
+    padding-right: 1em;
+    position: fixed;
+    width: 100%;
+    left:0;
+    bottom:0;
+    border-top: 4px solid black;
+    margin-top: 5em;
+}
+#cim{
+    margin-top: 15em;
+}
+header{
+    background-color: lightgray;
+    border-bottom: black 2px;
+}
+#rolam{
+    margin-top: 3em;
+    background-color: lightgray;
+    font-size: 1.5em;
+    margin-left: 7em;
+    margin-right: 7em;
+    padding: 1em 1em 1em 1em;
+    border: 4px solid black;
+    border-radius: 2em;
+    min-width: 200px;
+    word-wrap: break-word;
+}
+#munkaim{
+    margin-top: 2em;
+    background-color: lightgray;
+    font-size: 1.5em;
+    margin-left: 7em;
+    margin-right: 7em;
+    padding: 1em 1em 1em 1em;
+    border: 4px solid black;
+    border-radius: 2em;
+    min-width: 200px;
+    word-wrap: break-word;
+}
+#kepek{
+    margin-left: 19em;
+    margin-right: 19em;
+    margin-top: 3em;
+    padding: 1em 1em 1em 1em;
+}
+#profkepek{
+    margin-left: 37em;
+    margin-right: 37em;
+    margin-top: 3em; 
+    padding: 1em 1em 1em 1em;
+}
+#terv{
+    margin-left: 27em;
+    margin-right: 27em;
+    margin-top: 2em;
+    padding: 1em 1em 1em 1em;
+}
+#tervezes{
+    margin-top: 2em;
+    background-color: lightgray;
+    font-size: 1.5em;
+    margin-left: 7em;
+    margin-right: 7em;
+    padding: 1em 1em 1em 1em;
+    border: 4px solid black;
+    border-radius: 2em;
+    min-width: 200px;
+    word-wrap: break-word;
+}
